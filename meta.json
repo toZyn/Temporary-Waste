@@ -1,0 +1,19 @@
+{
+	"id": "hello2021-2022",
+	"name": "Hello2021-2022",
+	"description": "This is my Last MOD — BPM-2021 (Camellia). Ported to Light Engine.",
+	"version": "2.0.0",
+	"color": "#602D2D",
+	"author": "Ashilluman, Verdi, A9_AriXx",
+	"credits": "Original Psych Engine mod by Ashilluman / Verdi. Light Engine port by the community.",
+	"playData": {
+		"difficulties": ["Impossible"],
+		"characters": {
+			"player": "bf",
+			"girlfriend": "gf",
+			"opponent": "dad"
+		},
+		"stage": "hello2021",
+		"noteStyle": "funkin"
+	}
+}

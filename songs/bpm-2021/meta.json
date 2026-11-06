@@ -1,0 +1,12 @@
+{
+	"songName": "BPM-2021",
+	"displayName": "BPM-2021",
+	"charter": "Verdi",
+	"composer": "Camellia",
+	"artist": "Camellia",
+	"icon": "no",
+	"color": "#9B0000",
+	"stage": "hello2021",
+	"difficulties": ["Impossible"],
+	"timeFormat": "ms"
+}

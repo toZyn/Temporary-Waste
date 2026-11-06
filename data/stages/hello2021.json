@@ -1,0 +1,10 @@
+{
+	"name": "hello2021",
+	"cameraZoom": 0.9,
+	"props": [],
+	"characters": {
+		"bf": { "position": [770, 100], "cameraOffsets": [0, 0], "zIndex": 200 },
+		"dad": { "position": [100, 100], "cameraOffsets": [0, 0], "zIndex": 300 },
+		"gf": { "position": [400, 130], "cameraOffsets": [0, 0], "zIndex": 100 }
+	}
+}

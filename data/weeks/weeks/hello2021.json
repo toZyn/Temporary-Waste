@@ -1,0 +1,16 @@
+{
+	"name": "CAMELLIA",
+	"storyName": "Camellia",
+	"weekBackground": "hello2021",
+	"sprite": "hello2021",
+	"weekBefore": "tutorial",
+	"chars": ["", "", ""],
+	"characters": ["", "", ""],
+	"hideFreeplay": false,
+	"hideStoryMode": true,
+	"startUnlocked": true,
+	"difficulties": ["Impossible"],
+	"songs": [
+		["BPM-2021", "no", [155, 0, 0]]
+	]
+}
